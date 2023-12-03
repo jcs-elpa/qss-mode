@@ -31,6 +31,7 @@
 
 ;;; Code:
 
+;;;###autoload
 (define-derived-mode qss-mode css-mode "QSS"
   "Major mode for Qt Style Sheets.")
 
