@@ -1,8 +1,8 @@
 (package "qss-mode"
-         "0.0.1"
+         "0.1.0"
          "Major mode for Qt Style Sheets")
 
-(website-url "https://github.com/jcs090218/qss-mode")
+(website-url "https://github.com/jcs-elpa/qss-mode")
 (keywords "languages")
 
 (package-file "qss-mode.el")
