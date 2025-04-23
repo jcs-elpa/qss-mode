@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "qss-mode"
          "0.1.0"
          "Major mode for Qt Style Sheets")
